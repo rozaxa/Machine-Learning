@@ -8,3 +8,12 @@ Link: [notebook](https://github.com/rozaxa/Machine-Learning/blob/main/Clustering
 
 Link: [notebook](https://github.com/rozaxa/Machine-Learning/blob/main/Linear/025_Exercises.ipynb)
 
+<b> Assignment 3 Decision trees </b>
+
+Link: [notebook](https://github.com/rozaxa/Machine-Learning/blob/main/Linear/025_Exercises.ipynb)
+
+<b> Assignment 4 	Ensemble </b>
+
+Link: [notebook](https://github.com/rozaxa/Machine-Learning/blob/main/Linear/025_Exercises.ipynb)
+
+
