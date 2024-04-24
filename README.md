@@ -10,7 +10,7 @@ Link: [notebook](https://github.com/rozaxa/Machine-Learning/blob/main/Linear/025
 
 <b> Assignment 3 Decision trees </b>
 
-Link: 
+Link:[notebook](https://github.com/rozaxa/Machine-Learning/blob/main/decision%20tree/055Decision_trees_Exercises.ipynb)
 
 <b> Assignment 4 	Ensemble </b>
 
