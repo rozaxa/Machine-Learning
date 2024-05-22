@@ -16,4 +16,8 @@ Link: [notebook](https://github.com/rozaxa/Machine-Learning/blob/main/decision%2
 
 Link: [notebook](https://github.com/rozaxa/Machine-Learning/blob/main/Ensemble/075Ensemble_Exercises.ipynb)
 
+<b> Assignment 4 	Ensemble </b>
+
+Link: [notebook](https://github.com/rozaxa/Machine-Learning/blob/main/SVM/065_SVM_Exercises.ipynb)
+
 
