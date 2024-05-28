@@ -20,4 +20,8 @@ Link: [notebook](https://github.com/rozaxa/Machine-Learning/blob/main/Ensemble/0
 
 Link: [notebook](https://github.com/rozaxa/Machine-Learning/blob/main/SVM/065_SVM_Exercises.ipynb)
 
+<b> Assignment 6 NLP </b>
+
+Link: [notebook](https://github.com/rozaxa/Machine-Learning/blob/main/NLP/106_NLP_Exercises.ipynb)
+
 
